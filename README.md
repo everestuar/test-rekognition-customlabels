@@ -9,3 +9,11 @@
 
 * Fix pillow error to be able to show image after analysis.
 
+## Reference
+
+> * https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html
+> * https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html
+> * https://docs.aws.amazon.com/rekognition/latest/dg/API_BoundingBox.html
+> * https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/index.html
+> * https://docs.aws.amazon.com/code-samples/latest/catalog/java-rekognition-rekognition-image-java-detect-text.java.html
+> * https://docs.aws.amazon.com/rekognition/latest/customlabels-dg/cd-ground-truth.html
